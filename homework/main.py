@@ -21,11 +21,12 @@ while True:
     elif flag == 2:
         Toyota.get_all_cars()
     elif flag == 3:
+        id = int(input("Type id to search: "))
+        Toyota.get_by_id(id)
+    elif flag == 4:
         id = int(input("Type id to search and change color: "))
         Toyota.new_color(id)
-    elif flag == 4:
-        pass
-    elif flag ==5:
+    elif flag == 5:
         id = int(input('Type id to search and to drive car: '))
         Toyota.shift_gear(id)
     elif flag == 0:
