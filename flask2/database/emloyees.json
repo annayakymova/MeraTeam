@@ -1,0 +1,6 @@
+[
+  {"name": "Bobok", "object_id": "TrashCan", "type_of_work": "plant", "id": 1},
+  {"name": "Bohdan", "object_id": "Kosmos", "type_of_work": "plant", "id": 2},
+  {"name": "Anna", "object_id": "Shampagne", "type_of_work": "plant", "id": 3}
+
+]
