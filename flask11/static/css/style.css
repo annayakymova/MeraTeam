@@ -1,8 +1,0 @@
-.plants-container {
-    display: flex;
-    justify-content: space-between;
-}
-
-.plants-container .card {
-    width: 15%;
-}
