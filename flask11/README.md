@@ -1,6 +1,6 @@
-# Flask-REST
- 1. Rework your page which display details about Plant to work with SQLALCHEMY.
- 2. Create Employee table
+# Flask-REST-Practic
+ 1. Create ability to update employee.
+ 2. Create ability to delete employee
  
  You should create a file .env and add to it:
  
